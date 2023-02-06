@@ -4,6 +4,11 @@
 
 return [
 
+    '' => [
+        'controller' => 'main',
+        'action' => 'index'
+    ],
+
     'main/index' => [
         'controller' => 'main',
         'action' => 'index'

@@ -12,13 +12,13 @@
         <div class="wrapper">
             <div class="header">
                 <ul>
-                    <li class="<?php echo $main; ?>"><a href="index">Главная страница</a></li>
+                    <li class="<?php echo $main; ?>"><a href="/main/index">Главная страница</a></li>
 
-                    <li class="<?php echo $about; ?>"><a href="about"> О нас</a></li>
+                    <li class="<?php echo $about; ?>"><a href="/main/about"> О нас</a></li>
 
-                    <li class="<?php echo $contact;?>"><a href="contact">Контакты</a></li>
+                    <li class="<?php echo $contact;?>"><a href="/main/contact">Контакты</a></li>
                     
-                    <li class="<?php echo $phpinfo; ?>"><a href="phpinfo">phpinfo()</a></li>
+                    <li class="<?php echo $phpinfo; ?>"><a href="/main/phpinfo">phpinfo()</a></li>
                 </ul>
                 <h1>MVC ФРЕЙМВОРК</h1>
                 <p class="task">Задание 24.5. Итоговый проект</p>
