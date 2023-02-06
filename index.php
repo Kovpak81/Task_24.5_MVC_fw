@@ -1,6 +1,6 @@
 <?php
 
-// проект настроен: начало работы пишем в браузере (при запушенном хосте) main/index или main/contact, или main/about, или main/phpinfo
+// проект настроен: начало работы пишем в браузере (при запушенном хосте) пусто или main/index, или main/contact, или main/about, или main/phpinfo
 
 require 'application/lib/dev.php'; 
 
